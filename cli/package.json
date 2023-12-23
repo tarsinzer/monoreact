@@ -67,7 +67,7 @@
     "identity-obj-proxy": "3.0.0",
     "jest": "27.5.1",
     "node-sass": "7.0.3",
-    "ora": "5.4.1",
+    "ora": "8.0.1",
     "picocolors": "1.0.0",
     "postcss": "8.4.31",
     "postcss-nested": "6.0.1",

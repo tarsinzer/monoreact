@@ -97,7 +97,7 @@
     "@types/jest": "27.5.2",
     "@types/node": "18.18.4",
     "@types/ramda": "0.29.0",
-    "@types/react": "18.2.28",
+    "@types/react": "18.2.73",
     "@types/sade": "1.7.5",
     "@types/shelljs": "0.8.13",
     "esbuild": "0.19.4",
